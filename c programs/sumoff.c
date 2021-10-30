@@ -7,7 +7,7 @@ int main() {
     scanf("%d %d", &number1, &number2);
 
     // calculating sum
-    sum = number1 + number2;      
+    sum = number1 + number2;  /*poli*/    
     
     printf("%d + %d = %d", number1, number2, sum);
     return 0;
